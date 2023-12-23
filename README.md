@@ -10,6 +10,9 @@ I'm a Fullstack Web developer
 * ✉️  You can contact me at [hammadjaved9860@gmail.com](mailto:hammadjaved9860@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer/designer.
 
+<a href="https://www.github.com/hammadxp" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hammadxp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
